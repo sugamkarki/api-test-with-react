@@ -1,0 +1,12 @@
+.cardLayout_container{
+    padding: 20px 0 0 0 ;
+    display: grid;
+    place-items: center;
+}
+.cardLayout{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row-gap: 5px;
+    grid-column-gap: 5px;
+
+}
